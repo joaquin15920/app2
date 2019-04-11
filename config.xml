@@ -2,13 +2,13 @@
 
 <widget xmlns = "http://www.w3.org/ns/widgets"
  xmlns:gap = "http://phonegap.com/ns/1.0"
- id = "com.phonegap.app12"
+ id = "com.phonegap.app4"
   version = "1.0.0"> 
 
 <name> app2-Especialidad Tecnico en Progrmacion </name>
 
 <description>
-Aplicacion que nos muestra la informacion sobre la especialidad de Tecnico en Programacion Cbtis 
+Aplicacion que nos muestra la informacion sobre el dia internacional del dia de la madre tierra
 </description>
 
 <author href="https://build.phonegap.com" email="joaquin151020@gmail.com">
@@ -35,8 +35,6 @@ Angel Joaquin Dominguez Bueno
 <allow-intent href="http://*/*"/>
 <acces origin="http://*/*"/>
 <plugin name="cordova-plugin-whitelist" source="npm"/>
-
-
 
 <!--Colocar icono app-->
 
